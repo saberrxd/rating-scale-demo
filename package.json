@@ -1,0 +1,1 @@
+{\n  "name": "rating-scale-demo",\n  "version": "1.0.0",\n  "dependencies": {\n    "@supabase/supabase-js": "^2.0.0",\n    "csv-parse": "^5.0.0",\n    "dotenv": "^10.0.0"\n  },\n  "devDependencies": {\n    "jest": "^27.0.0",\n    "typescript": "^4.0.0"\n  }\n}
